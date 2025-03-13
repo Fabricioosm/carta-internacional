@@ -1,0 +1,34 @@
+body{
+    font: 20px Arial;
+    max-width: 700px;
+    margin: 50px auto;
+    background-color: black;
+}
+main{
+    background-color: rgb(255, 234, 196);
+    border-radius: 40px;
+    width: 700px;
+    padding: 100px;
+    margin: auto;
+    margin-top: 30%;
+}
+
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+ .primeiralinha{
+        padding-left: 70px;
+    }
+.texto{
+    align-items: center;
+    text-align: justify; 
+}
+.Despedida{
+    height: 600px;
+    float: right;
+    line-height: 1.5;
+}
