@@ -13,7 +13,10 @@ O objetivo do projeto foi criar uma página Web utilizando HTML5 e CSS3 que exib
 - CSS3
 
 ## 🚀 Estrutura do Projeto
-├── index.html - Estrutura da página
-└── README.md - Descrição do projeto
-
+- ├── index.html - Página principal da carta
+- ├── style/
+- │   └── styless.css - Arquivo CSS externo
+- ├── README.md - Informações sobre o projeto
+  
 ## 🌐 Acesso ao Projeto
+https://fabricioosm.github.io/carta-internacional/
